@@ -6,8 +6,9 @@
 <!--내용 부분-->
 <div align="center">🎓 Majoring in IT Engineering at Sookmyung Women's University</div>
 <div align="center">🔧 Interested in Back-end / MLOps / AI / Database </div>
-<br><br>
+<br>
 <div align="center">🫶 I enjoy playing tennis, traveling abroad, and listening to band music.</div>
+<br>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
