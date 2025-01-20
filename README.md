@@ -4,7 +4,7 @@
 </div>
 
 <!--내용 부분-->
-<div align="center">Hi! I'm Nahyun Kim, a senior student in Department of Artificial Intelligence at Sookmyung Women's University.</div>
+<div align="center">Hi! I'm Nahyun Kim, a senior majoring in Artificial Intelligence at Sookmyung Women's University.</div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
