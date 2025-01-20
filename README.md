@@ -4,9 +4,9 @@
 </div>
 
 <!--내용 부분-->
-<div align="center">🎓 Majoring in Artificial Intelligence at Sookmyung Women's University</div>
-<div align="center">🔧 Interested in Back-end / MLOps / AI </div>
-<div> </div>
+<div align="center">🎓 Majoring in IT Engineering at Sookmyung Women's University</div>
+<div align="center">🔧 Interested in Back-end / MLOps / AI / Database </div>
+<br><br>
 <div align="center">🫶 I enjoy playing tennis, traveling abroad, and listening to band music.</div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
