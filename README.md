@@ -6,7 +6,7 @@
 <!--내용 부분-->
 <div align="center">🎓 Graduated from Taegu Foreign Language High School - Eng/Jap</div>
 <div align="center">🏫 Majoring in IT Engineering at Sookmyung Women's University</div>
-<div align="center">🔧 Interested in Back-end / DevOps / MLOps / AI / Database </div>
+<div align="center">🔧 Interested in Back-end / DevOps / MLOps / Database </div>
 <br>
 <div align="center">🫶 I enjoy playing tennis, traveling abroad, and listening to band music.</div>
 <br>
