@@ -4,7 +4,7 @@
 </div>
 
 <!--내용 부분-->
-<div align="center">🎓 Graduated Taegu Foreign Language High School - Eng/Jap</div>
+<div align="center">🎓 Graduated from Taegu Foreign Language High School - Eng/Jap</div>
 <div align="center">🏫 Majoring in IT Engineering at Sookmyung Women's University</div>
 <div align="center">🔧 Interested in Back-end / MLOps / AI / Database </div>
 <br>
