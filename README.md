@@ -1,10 +1,13 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi/!%20I'm%20Nahyun%20Kim&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I'm%20Nahyun%20Kim&fontSize=90" />
 </div>
 
 <!--내용 부분-->
-<div align="center">Hi! I'm Nahyun Kim, a senior majoring in Artificial Intelligence at Sookmyung Women's University.</div>
+<div align="center">🎓 Majoring in Artificial Intelligence at Sookmyung Women's University</div>
+<div align="center">🔧 Interested in Back-end / MLOps / AI </div>
+<div> </div>
+<div align="center">🫶 I enjoy playing tennis, traveling abroad, and listening to band music.</div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
