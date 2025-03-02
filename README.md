@@ -4,6 +4,7 @@
 </div>
 
 <!--내용 부분-->
+<h2>QI AI Oriented Research Project, 1st Place - Outstanding Achievement Award, UC Sandiego, CA</h2>
 <div align="center">🎓 Graduated from Taegu Foreign Language High School - Eng/Jap</div>
 <div align="center">🏫 Majoring in IT Engineering at Sookmyung Women's University</div>
 <div align="center">🔧 Interested in Back-end / DevOps / MLOps / Database </div>
